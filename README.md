@@ -96,3 +96,9 @@ O sistema foi configurado para ser rigoroso conforme as diretrizes do desafio:
 - Erro de conexão com o banco: Verifique se o container Docker está em execução (docker ps).
 
 - Erro de API Key: Verifique se sua chave do Google AI Studio possui cotas disponíveis.
+
+---
+
+<div align="center">
+  <img src="https://i.ibb.co/kgNSnpv/git-support.png">
+</div>
